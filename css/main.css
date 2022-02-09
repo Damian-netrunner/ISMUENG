@@ -4145,3 +4145,13 @@ dl.toggle.time-line:before {
 .footer-bottom .footer-social a:hover {
     background-color: #f7631b;
 }
+.ordered-list {
+    list-style: decimal;
+}
+
+.ordered-list li{
+    list-style: decimal;
+    color: inherit;
+    font-size: 14px;
+    font-weight: 300;
+}
